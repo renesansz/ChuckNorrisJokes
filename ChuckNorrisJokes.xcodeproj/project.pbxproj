@@ -16,6 +16,7 @@
 		4C281C461D62C2BD00122929 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C281C441D62C2BD00122929 /* LaunchScreen.storyboard */; };
 		4C281C511D62C2BD00122929 /* ChuckNorrisJokesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C281C501D62C2BD00122929 /* ChuckNorrisJokesTests.m */; };
 		4C281C5C1D62C2BD00122929 /* ChuckNorrisJokesUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C281C5B1D62C2BD00122929 /* ChuckNorrisJokesUITests.m */; };
+		4C281C6A1D62C36B00122929 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 4C281C691D62C36B00122929 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		4C281C571D62C2BD00122929 /* ChuckNorrisJokesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChuckNorrisJokesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C281C5B1D62C2BD00122929 /* ChuckNorrisJokesUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChuckNorrisJokesUITests.m; sourceTree = "<group>"; };
 		4C281C5D1D62C2BD00122929 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C281C691D62C36B00122929 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		4C281C271D62C2BD00122929 = {
 			isa = PBXGroup;
 			children = (
+				4C281C691D62C36B00122929 /* README.md */,
 				4C281C321D62C2BD00122929 /* ChuckNorrisJokes */,
 				4C281C4F1D62C2BD00122929 /* ChuckNorrisJokesTests */,
 				4C281C5A1D62C2BD00122929 /* ChuckNorrisJokesUITests */,
@@ -275,6 +278,7 @@
 			files = (
 				4C281C411D62C2BD00122929 /* ChuckNorrisJokes.xcdatamodeld in Sources */,
 				4C281C3B1D62C2BD00122929 /* ViewController.m in Sources */,
+				4C281C6A1D62C36B00122929 /* README.md in Sources */,
 				4C281C381D62C2BD00122929 /* AppDelegate.m in Sources */,
 				4C281C351D62C2BD00122929 /* main.m in Sources */,
 			);
